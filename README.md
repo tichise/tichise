@@ -1,16 +1,13 @@
-### Hi there 👋
+iOS and Android engineer, and Maker. I am making a robot ball #omicro.
 
-<!--
-**tichise/tichise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blog
+[Blog](https://medium.com/tichise)
 
-Here are some ideas to get you started:
+### SNS
+[Twitter](https://twitter.com/tichise)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio
+[Wantedly)(https://www.wantedly.com/users/141500) 
+
+### OSS
+[CocoaPods](https://cocoapods.org/owners/6707) / [Mbed](https://os.mbed.com/users/tichise/)
