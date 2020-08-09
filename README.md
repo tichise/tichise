@@ -3,7 +3,7 @@ iOS and Android engineer, and Maker. I am making a robot ball #omicro.
 ### 😄 Blog
 [Hardware is hard](https://medium.com/tichise)
 
-### Community
+### 👫 Community
 [Pepabo Make Club](https://medium.com/pbmake)
 
 ### 📍 SNS
