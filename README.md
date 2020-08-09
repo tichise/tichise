@@ -1,4 +1,4 @@
-iOS and Android engineer, and Maker. I am making a robot ball #omicro.
+iOS and Android engineer, and Maker. I am making a robot ball [omicro](https://medium.com/omicro).
 
 ### 😄 Blog
 [Hardware is hard](https://medium.com/tichise)
