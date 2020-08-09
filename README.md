@@ -1,14 +1,14 @@
 iOS and Android engineer, and Maker. I am making a robot ball #omicro.
 
-### Blog
+### 😄 Blog
 [Hardware is hard](https://medium.com/tichise) / [ペパボMake部](https://medium.com/pbmake)
 
-### SNS
+### 📍 SNS
 [Twitter](https://twitter.com/tichise)
 
-### Portfolio
+### 🚗 Portfolio
 [Wantedly](https://www.wantedly.com/users/141500) / [omicro](https://medium.com/omicro) / [tichise｜バーチャルSNS cluster（クラスター）](https://cluster.mu/u/tichise)
 [kicad parts](https://github.com/tichise/kicad-parts)
 
-### OSS
+### ☀️ OSS
 [CocoaPods](https://cocoapods.org/owners/6707) / [Mbed](https://os.mbed.com/users/tichise/)
