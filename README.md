@@ -13,4 +13,4 @@ iOS and Android engineer, and Maker. I am making a robot ball [omicro](https://m
 [iOS App](https://apps.apple.com/jp/developer/takuya-ichise/id306411634) / [Wantedly](https://www.wantedly.com/users/141500) / [omicro](https://medium.com/omicro) / [cluster](https://cluster.mu/u/tichise)
 
 ### ☀️ OSS
-[CocoaPods](https://cocoapods.org/owners/6707) / [Mbed](https://os.mbed.com/users/tichise/) / [kicad parts](https://github.com/tichise/kicad-parts) / [Qiita](https://qiita.com/tichise) / [Cocoa Controls](https://www.cocoacontrols.com/authors/tichise)
+[CocoaPods](https://cocoapods.org/owners/6707) / [Jcenter](https://bintray.com/ichise) / [Mbed](https://os.mbed.com/users/tichise/) / [kicad parts](https://github.com/tichise/kicad-parts) / [Qiita](https://qiita.com/tichise) / [Cocoa Controls](https://www.cocoacontrols.com/authors/tichise)
