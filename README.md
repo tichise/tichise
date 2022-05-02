@@ -1,4 +1,4 @@
-iOS and Android engineer, and Maker. I am making a robot ball [omicro](https://medium.com/omicro).
+Japanese Maker. making smartphone apps, robots, and Unity-based works. I am making a robot ball [omicro](https://medium.com/omicro).
 
 ### 😄 Blog
 [Takuya Ichise](https://medium.com/tichise)
