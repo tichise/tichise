@@ -9,7 +9,7 @@ Japanese Maker. making smartphone apps, robots, and Unity-based works. I work fo
 ### 🚗 Portfolio
 [iOS App](https://apps.apple.com/jp/developer/takuya-ichise/id306411634) / [cluster](https://cluster.mu/u/tichise) / [YouTube](https://www.youtube.com/channel/UClGPdAFB6kcgkg77eS4gyNw) / [cluster](https://cluster.mu/u/tichise) / [Takuya Ichise - Hackster.io](https://www.hackster.io/tichise) / [Profile | Make: Projects](https://makeprojects.com/profile/tichise)
 
-#### omicro
+#### 🤖 omicro
 [omicro](http://omicro.tokyo/) / [Medium](https://medium.com/omicro) / [omicro - YouTube](https://www.youtube.com/channel/UCNNG0Xf5_BI9byQsi13VjeQ)
 
 ### ☀️ OSS
