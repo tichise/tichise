@@ -1,4 +1,6 @@
-Japanese Maker. making smartphone apps, robots, and Unity-based works. I work for GMO Pepabo Inc. YouTube http://bit.ly/3rao0nP
+Japanese Maker. making smartphone apps, robots, and Unity-based works. 
+I work for GMO Pepabo Inc. YouTube http://bit.ly/3rao0nP
+
 
 ### 😄 Blog
 [Takuya Ichise](https://medium.com/tichise) / [Life with spices – Medium](https://medium.com/life-with-spices)
