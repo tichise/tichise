@@ -1,5 +1,7 @@
 Japanese Maker. making smartphone apps, robots, and Unity-based works. 
-I work for GMO Pepabo Inc. YouTube http://bit.ly/3rao0nP
+I work for GMO Pepabo Inc. 
+
+YouTube http://bit.ly/3rao0nP
 
 
 ### 😄 Blog
