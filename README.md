@@ -19,7 +19,6 @@
 
 #### 🤖 Robot ball: omicro
 - [omicro](http://omicro.tokyo/)
-- [Medium](https://medium.com/omicro)
 
 ### ☀️ OSS
 - [CocoaPods](https://cocoapods.org/owners/6707)
