@@ -1,6 +1,5 @@
 🗻 Japanese maker of smartphone apps, robots, and Unity-based creations<br />
 🤖 I'm making a robot ball omicro omicro.tokyo<br />
-🎥 YouTube bit.ly/3rao0nP<br />
 
 ### 😄 Blog
 [Takuya Ichise](https://medium.com/tichise)
