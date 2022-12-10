@@ -7,15 +7,14 @@
 
 ### 📍 SNS
 - [Twitter](https://twitter.com/tichise)
-- [Takuya Ichise - YouTube](https://www.youtube.com/channel/UClGPdAFB6kcgkg77eS4gyNw)
 - [YouTube](https://www.youtube.com/channel/UClGPdAFB6kcgkg77eS4gyNw)
 
 
 ### 🚗 Portfolio
 - [iOS App](https://apps.apple.com/jp/developer/takuya-ichise/id306411634)
 - [cluster](https://cluster.mu/u/tichise)
-- [cluster](https://cluster.mu/u/tichise)
-- [Takuya Ichise - Hackster.io](https://www.hackster.io/tichise)
+- [STYLY](https://gallery.styly.cc/artist/tichise/scenes)
+- [Hackster.io](https://www.hackster.io/tichise)
 - [Profile | Make: Projects](https://makeprojects.com/profile/tichise)
 
 #### 🤖 Robot ball: omicro
