@@ -3,7 +3,7 @@
 🎥 YouTube bit.ly/3rao0nP<br />
 
 ### 😄 Blog
-[Takuya Ichise](https://medium.com/tichise) / [Life with spices – Medium](https://medium.com/life-with-spices)
+[Takuya Ichise](https://medium.com/tichise)
 
 ### 📍 SNS
 [Twitter](https://twitter.com/tichise) / [Takuya Ichise - YouTube](https://www.youtube.com/channel/UClGPdAFB6kcgkg77eS4gyNw)
