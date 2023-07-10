@@ -1,7 +1,3 @@
-🗻 Japanese maker of smartphone apps, robots, and Unity-based creations<br />
-🤖 I'm making a robot ball omicro omicro.tokyo<br />
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tichise&count_private=true&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tichise" height="195px" />
 
