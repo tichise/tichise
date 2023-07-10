@@ -1,6 +1,11 @@
 🗻 Japanese maker of smartphone apps, robots, and Unity-based creations<br />
 🤖 I'm making a robot ball omicro omicro.tokyo<br />
 
+[tichise's GitHub Stats, Rank: A](https://github-readme-stats.vercel.app/api?username=tichise&count_private=true&theme=dracula)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tichise)
+
+
 ### 😄 Blog
 [Takuya Ichise](https://medium.com/tichise)
 
