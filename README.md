@@ -1,15 +1,11 @@
 🗻 Japanese maker of smartphone apps, robots, and Unity-based creations<br />
 🤖 I'm making a robot ball omicro omicro.tokyo<br />
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tichise&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tichise" />
-</a>
-</div>
-<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tichise&count_private=true&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tichise&theme=dracula" />
+
+
 
 ### 😄 Blog
 [Takuya Ichise](https://medium.com/tichise)
