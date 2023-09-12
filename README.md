@@ -10,7 +10,7 @@
 ### 🚗 Portfolio
 [YouTube](https://www.youtube.com/channel/UClGPdAFB6kcgkg77eS4gyNw) | [iOS App](https://apps.apple.com/jp/developer/takuya-ichise/id306411634) | [cluster](https://cluster.mu/u/tichise) | [STYLY](https://gallery.styly.cc/artist/tichise/scenes) | [Hackster.io](https://www.hackster.io/tichise) | [Profile | Make: Projects](https://makeprojects.com/profile/tichise)
 
-#### 🤖 Hardware
+### 🤖 Hardware
 [omicro : 自走式球体型ロボット](https://omicro.tokyo/2022/07/18/omicro/) | [omicro balloid：複合現実と自律型AIを用いたマルチエージェントシステム](https://omicro.tokyo/2022/07/17/omicro-balloid/)
 
 ### ☀️ OSS
