@@ -6,7 +6,7 @@ I am an engineer and Maker based in Tokyo. He has attended and exhibited his wor
 [Medium](https://medium.com/tichise)
 
 ### 📍 SNS
-[X](https://twitter.com/tichise) | [Instagram](https://www.instagram.com/tichise/)
+[X](https://twitter.com/tichise)
 
 ### 🚗 Portfolio
 [YouTube](https://www.youtube.com/channel/UClGPdAFB6kcgkg77eS4gyNw) | [iOS App](https://apps.apple.com/jp/developer/takuya-ichise/id306411634) | [cluster](https://cluster.mu/u/tichise) | [STYLY](https://gallery.styly.cc/artist/tichise/scenes) | [Hackster.io](https://www.hackster.io/tichise) | [Profile | Make: Projects](https://makeprojects.com/profile/tichise)
