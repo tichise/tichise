@@ -1,6 +1,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tichise&count_private=true&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tichise" height="195px" />
 
-### 📝 Blog
+### 🐶 Blog
 - [Medium](https://medium.com/tichise)
 
 ### 📍 Social Networks
@@ -24,6 +24,9 @@
 - [Mbed User Profile](https://os.mbed.com/users/tichise/)
 - [KiCad Parts on GitHub](https://github.com/tichise/kicad-parts)
 - [npm Packages](https://www.npmjs.com/~tichise)
-- [Articles on Qiita](https://qiita.com/tichise)
 - [Cocoa Controls Contributions](https://www.cocoacontrols.com/authors/tichise)
 - [PlatformIO Registry](https://registry.platformio.org/search?q=owner%3Atichise)
+
+### 📝 Articles
+- [Articles on Qiita](https://qiita.com/tichise)
+- [Zenn](https://zenn.dev/tichise)
