@@ -7,7 +7,7 @@
 - [X (Twitter)](https://twitter.com/tichise)
 
 ### 🍔 Portfolio
-- [YouTube Channel](https://www.youtube.com/channel/UClGPdAFB6kcgkg77eS4gyNw)
+- [YouTube Channel](https://www.youtube.com/@tichise)
 - [iOS Apps](https://apps.apple.com/jp/developer/takuya-ichise/id306411634)
 - [cluster Profile](https://cluster.mu/u/tichise)
 - [STYLY Gallery](https://gallery.styly.cc/artist/tichise/scenes)
