@@ -26,4 +26,4 @@
 - [npm Packages](https://www.npmjs.com/~tichise)
 - [Articles on Qiita](https://qiita.com/tichise)
 - [Cocoa Controls Contributions](https://www.cocoacontrols.com/authors/tichise)
-
+- [PlatformIO Registry](https://registry.platformio.org/search?q=owner%3Atichise)
