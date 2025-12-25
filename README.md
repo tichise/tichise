@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tichise&count_private=true&show_icons=true" />
-
 ### 🐶 Blog
 [Medium](https://medium.com/tichise)
 
